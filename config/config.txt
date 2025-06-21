@@ -1,0 +1,9 @@
+key N l_0 L t_0 alpha pA pLambda0 filePath
+
+Cauchy_config 12 0.0 1.0 0.0 0.0 1.0 0.1 ../../results/
+
+
+
+key precForPrint eps theta maxIterations alpha
+
+Newton_config 8 1e-8 0.1 120 0.0
